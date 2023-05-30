@@ -8,6 +8,8 @@
 </head>
 <body>
     <h1>Cobaan Git</h1>
-    <p>Penambahan</p>
+
+    
+    <p>latihan Git</p>
 </body>
 </html>

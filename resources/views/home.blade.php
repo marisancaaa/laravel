@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Cobaan Git</h1>
-    <p>Penambahan</p>
-    <p>Ini tambahan</p>
+
+    <p>tambahan</p>
 </body>
 </html>
